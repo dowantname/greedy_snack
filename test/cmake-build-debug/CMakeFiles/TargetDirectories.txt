@@ -1,0 +1,3 @@
+F:/bank/greedy_snack/test/cmake-build-debug/CMakeFiles/test.dir
+F:/bank/greedy_snack/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/bank/greedy_snack/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
